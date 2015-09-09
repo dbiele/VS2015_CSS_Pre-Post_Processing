@@ -1,8 +1,13 @@
 # VS2015_CSS_Pre-Post_Processing
-**Note: The project files are for use with Visual Studio 2015 + Tools for Apache Cordova.**
+![](readmeimages/note.png)**Note: The project files are for use with Visual Studio 2015 + Tools for Apache Cordova.**
 
 The purpose of the files are to demonstrate how to use Sass and PostCSS AutoPrefixer using gulp-sass and gulp-autoprefixer.
 
+In this example, the Gulp automated process simply process the files from `scripts\components\materials\components` and copies them into `www\css`.
+
+To start, download the repository files and open the CSS Pre Post Processor.sln in Visual Studio 2015.
+
+![](readmeimages/note.png)Note: Make sure to install Visual Studio 2015 Tools for Apache Cordova. 
 
 ## CSS Preprocessor and Postprocessor
 
@@ -57,7 +62,7 @@ Add the following NPM packages into the devDependencies object. Use the devDepen
 }
 ```
 
-*Note*: Use the VS2015 package.json to both install and uninstall npm packages.
+![](readmeimages/note.png)*Note*: Use the VS2015 package.json to both install and uninstall npm packages.
 
 More information about package.json can be found here: [https://docs.npmjs.com/files/package.json](https://docs.npmjs.com/files/package.json)
 
