@@ -1,0 +1,13 @@
+{
+  "name": "CSSPrePostProcessor",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp": "3.9.0",
+    "gulp-sass": "2.0.4",
+    "gulp-autoprefixer": "3.0.1",
+    "es6-promise": "3.0.2",
+    "autoprefixer": "6.0.2"
+  }
+}
